@@ -1,0 +1,6 @@
+{
+  "name": "TechNeeds - Next-Gen Tech Mentorship & LMS",
+  "description": "Comprehensive technical mentorship and learning management ecosystem for TechNeeds IGDTUW with role-based dashboards, interactive resource management, gamified leaderboards, and AI-powered technical profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
